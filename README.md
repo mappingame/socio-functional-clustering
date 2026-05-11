@@ -43,6 +43,7 @@ Manuscript under review.
 
 ## Contributors
 
-[Almudena Nolasco-Cirugeda](https://github.com/mappingame)
-[Sergio García-Pérez](https://github.com/s-garciap)
 [Jesús López-Baeza](https://github.com/JesusLopezBaeza)
+[Sergio García-Pérez](https://github.com/s-garciap)
+[Almudena Nolasco-Cirugeda](https://github.com/mappingame)
+
