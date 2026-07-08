@@ -39,7 +39,9 @@ files and cluster score plots as PNG.
 
 ## Citation
 
-Manuscript under review.
+If you use this code, please cite:
+
+Nolasco-Cirugeda, A., López-Baeza, J., García-Pérez, S., & García-Mayor, C. (2026). Shaping socio-functional urban identity: When morphometrics meet social media data to reveal neighbourhood structure and cores. *Cities*. https://doi.org/10.1016/j.cities.2026.107373
 
 ## Contributors
 
