@@ -34,7 +34,7 @@ Citation:
     Shaping socio-functional urban identity: When morphometrics meet social media data
     to reveal neighbourhood structure and cores. Cities.
     https://doi.org/10.1016/j.cities.2026.107373
-    Code: https://doi.org/10.5281/zenodo.XXXXXXX
+    Code DOI: https://doi.org/10.5281/zenodo.21258671
 """
 
 # =============================================================================
