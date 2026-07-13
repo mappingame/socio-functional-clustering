@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Socio-Functional Clustering"
+type: software
+authors:
+  - family-names: "Nolasco-Cirugeda"
+    given-names: "Almudena"
+    affiliation: "Universidad de Alicante"
+  - family-names: "López-Baeza"
+    given-names: "Jesús"
+    affiliation: "Universidad de Alicante"
+  - family-names: "García-Pérez"
+    given-names: "Sergio"
+    affiliation: "Universidad de Zaragoza"
+  - family-names: "García-Mayor"
+    given-names: "Clara"
+    affiliation: "Universidad de Alicante"
+license: MIT
+repository-code: "https://github.com/mappingame/socio-functional-clustering"
